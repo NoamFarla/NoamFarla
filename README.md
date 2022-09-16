@@ -8,7 +8,7 @@ I am a 15 year old newbie web developer who goes to school at IFAPME ( Institut 
 
 *   🌍  I'm based in Belgium
 *   ✉️  You can contact me at [noamfrl@icloud.com](mailto:noamfrl@icloud.com)
-*   🚀  I'm currently working on [Fylo Landing Page](https://github.com/pitbfrl/fylo-landing-page)
+*   🚀  I'm currently working on [My projects landing page](https://github.com/pitbfrl/portfolio-projects)
 *   🧠  I'm learning JavaScript
 *   🤝  I'm open to collaborating on interesting projects !
 *   🌐 I speak French, Dutch and English󠁧󠁢󠁥
