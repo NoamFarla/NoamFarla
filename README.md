@@ -8,7 +8,7 @@ I am a 15 year old newbie web developer who goes to school at IFAPME ( Institut 
 
 *   🌍  I'm based in Belgium
 *   ✉️  You can contact me at [noamfrl@icloud.com](mailto:noamfrl@icloud.com)
-*   🚀  I'm currently working on [Thes Et Saveurs](http://thesetsaveurs.netlify.app)
+*   🚀  I'm currently working on [Fylo Landing Page](https://github.com/pitbfrl/fylo-landing-page)
 *   🧠  I'm learning JavaScript
 *   🤝  I'm open to collaborating on interesting projects !
 *   🌐 I speak French, Dutch and English󠁧󠁢󠁥
