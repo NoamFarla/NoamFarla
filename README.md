@@ -11,4 +11,6 @@ I am a 15 year old newbie web developer who goes to school at IFAPME ( Institut 
 *   🚀  I'm currently working on [Thes Et Saveurs](http://thesetsaveurs.netlify.app)
 *   🧠  I'm learning JavaScript
 *   🤝  I'm open to collaborating on interesting projects !
-*   ☕  buy me a coffee [here](https://www.buymeacoffee.com/noamfarla)!
+*   🌐 I speak French, Dutch and English󠁧󠁢󠁥
+*   ☕  Buy me a coffee [here](https://www.buymeacoffee.com/noamfarla)!
+
