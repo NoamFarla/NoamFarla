@@ -4,7 +4,7 @@ Hi 👋 My name is Noam Farla
 Newbie web developer
 --------------------
 
-I am a 15 year old newbie web developer who goes to school at IFAPME ( Institut wallon de Formation en Alternance des indépendants et des Petites et Moyennes Entreprises ) to make web development my job.
+I am a 16 year old newbie web developer who goes to school at IFAPME ( Institut wallon de Formation en Alternance des indépendants et des Petites et Moyennes Entreprises ) to make web development my job.
 
 *   🌍  I'm based in Belgium
 *   ✉️  You can contact me at [noamfrl@icloud.com](mailto:noamfrl@icloud.com)
