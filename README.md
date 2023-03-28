@@ -1,15 +1,16 @@
 Hi 👋 My name is Noam Farla
 ===========================
 
-Newbie web developer
+Junior web developer
 --------------------
 
-I am a 16 year old newbie web developer who goes to school at IFAPME ( Institut wallon de Formation en Alternance des indépendants et des Petites et Moyennes Entreprises ) to make web development my job.
+I am a 16 year old front-end web developer who goes to school at IFAPME as an assistant developer to become a full-time developer later. I like coffee, programming/developing and hitting the gym!
 
 *   🌍  I'm based in Belgium
 *   ✉️  You can contact me at [noamfrl@icloud.com](mailto:noamfrl@icloud.com)
-*   🚀  I'm currently working on [My projects landing page](https://github.com/pitbfrl/portfolio-projects)
-*   🧠  I'm learning JavaScript
+*   👨‍💻  I work at Top Assets in Belgium as a front-end developer
+*   🚀  I'm currently working on [MoonScope]()
+*   🧠  I'm currently learning JavaScript
 *   🤝  I'm open to collaborating on interesting projects !
 *   🌐 I speak French, Dutch and English󠁧󠁢󠁥
 *   ☕  Buy me a coffee [here](https://www.buymeacoffee.com/noamfarla)!
