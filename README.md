@@ -8,7 +8,7 @@ I am a 16 year old front-end web developer who goes to school at IFAPME as an as
 
 *   🌍  I'm based in Belgium
 *   ✉️  You can contact me at [noamfrl@icloud.com](mailto:noamfrl@icloud.com)
-*   👨‍💻  I work at Top Assets in Belgium as a front-end web developer
+*   👨‍💻  I am currently interning at Top Assets in Belgium as a front-end web developer
 *   🚀  I'm currently working on [MoonScope]() 
 *   🧠  I'm currently learning JavaScript
 *   🤝  I'm open to collaborating on interesting projects !
